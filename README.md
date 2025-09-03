@@ -32,7 +32,7 @@ fields_of_interests:
 currently_learning: ["Adobe, Python, and React Native"]
 hobbies: ["Investing", "Sewing", "Jewellery Making"]
 ```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools I Have Used </h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
