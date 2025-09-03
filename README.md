@@ -54,8 +54,8 @@ hobbies: ["Investing", "Sewing", "Jewellery Making"]
 
 ## 🐍 My GitHub History    
 
-| <img src="https://github-readme-stats.vercel.app/api?username=IsabellaCrawshaw&show_icons=true&theme=default" alt="GitHub stats" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaCrawshaw&layout=compact&theme=default" alt="Top Languages" height="180"/> |
-|---|---|
+ <img src="https://github-readme-stats.vercel.app/api?username=IsabellaCrawshaw&show_icons=true&theme=default" alt="GitHub stats" height="180"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaCrawshaw&layout=compact&theme=default" alt="Top Languages" height="180"/> 
+
 
 
 ![Snake animation](https://github.com/IsabellaCrawshaw/IsabellaCrawshaw/blob/output/github-contribution-grid-snake.svg)
