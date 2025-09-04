@@ -34,8 +34,6 @@ core_interests:
 currently_learning: 
   - "Adobe Creative Suite"
   - "Python for Data Analysis"
-  - "React Native Development"
-  - "Cloud Technologies"
 
 technical_focus:
   - "Frontend: React, JavaScript, HTML/CSS"
