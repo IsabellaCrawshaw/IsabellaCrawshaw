@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/isabella-crawshaw-946b382b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="Open to Opportunities"/>
 </h1>
 
 <div align="center">
