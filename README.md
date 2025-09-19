@@ -92,10 +92,6 @@ personal_interests: ["Stock Market Analysis", "Fashion Design & Sewing", "Handma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaCrawshaw&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaCrawshaw&theme=default&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ![Snake animation](https://github.com/IsabellaCrawshaw/IsabellaCrawshaw/blob/output/github-contribution-grid-snake.svg)
 
 
